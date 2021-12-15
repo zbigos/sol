@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "sol")(type "KiCad")(uri "/home/zbyszek/coldstorage/MyProjects/sol/hardware/lib/sol.kicad_sym")(options "")(descr ""))
+)
